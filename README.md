@@ -1,11 +1,8 @@
 - 👋 Hi, I'm Bridgetching
-- <!---
-- Bridgetching/Bridgetching is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- You can click the Preview link to take a look at your changes.
-- --->
-- 👀 I’m interested in infrastructure deployment and DevOps
-- 🌱 I’m currently learning how to use CI/CD deployment
-- 💞️ I’m looking to collaborate with DevOps engineers
-- 📫 How to reach me: kongchingbridget@gmail.com
-- ⚡ Fun fact: I love succer, music
+- 👀 I’m passionate about cloud infrastructure, automation, and DevOps practices
+- 🌱 Currently learning and building CI/CD pipelines and GitOps workflows
+- 💞️ Looking to collaborate with DevOps and Cloud engineers
+- 📫 Reach me at: kongchingbridget@gmail.com
+- ⚡ Fun fact: I enjoy cooking, gardening, and music in my free time.
+
 
